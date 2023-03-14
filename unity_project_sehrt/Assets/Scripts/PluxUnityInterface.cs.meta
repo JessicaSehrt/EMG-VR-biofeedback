@@ -1,0 +1,58 @@
+fileFormatVersion: 2
+guid: 49d6f73d1651a864a98a380f9191bacf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - DeviceDropdown: {instanceID: 0}
+  - StartButton: {instanceID: 0}
+  - StartBySrcButton: {instanceID: 0}
+  - StopButton: {instanceID: 0}
+  - ScanButton: {instanceID: 0}
+  - AboutButton: {instanceID: 0}
+  - ConnectButton: {instanceID: 0}
+  - ChangeChannel: {instanceID: 0}
+  - SamplingRateInput: {instanceID: 0}
+  - ResolutionInput: {instanceID: 0}
+  - ResolutionDropdown: {instanceID: 0}
+  - CH1Toggle: {instanceID: 0}
+  - CH2Toggle: {instanceID: 0}
+  - CH3Toggle: {instanceID: 0}
+  - CH4Toggle: {instanceID: 0}
+  - CH5Toggle: {instanceID: 0}
+  - CH6Toggle: {instanceID: 0}
+  - CH7Toggle: {instanceID: 0}
+  - CH8Toggle: {instanceID: 0}
+  - BTHToggle: {instanceID: 0}
+  - BLEToggle: {instanceID: 0}
+  - SamplingRateInfoPanel: {instanceID: 0}
+  - SelectedChannelPanel: {instanceID: 0}
+  - ChannelSelectioInfoPanel: {instanceID: 0}
+  - ConnectInfoPanel: {instanceID: 0}
+  - BluetoothInfoPanel: {instanceID: 0}
+  - BLESamplingRateInfoPanel: {instanceID: 0}
+  - BatteryIconUnknown: {instanceID: 0}
+  - BatteryIcon0: {instanceID: 0}
+  - BatteryIcon10: {instanceID: 0}
+  - BatteryIcon50: {instanceID: 0}
+  - BatteryIcon100: {instanceID: 0}
+  - PlotIcon: {instanceID: 0}
+  - AcquiringIcon: {instanceID: 0}
+  - GreenFlag: {instanceID: 0}
+  - RedFlag: {instanceID: 0}
+  - TransparencyLevel: {instanceID: 0}
+  - Hidingwall: {instanceID: 0}
+  - triggercube: {instanceID: 0}
+  - emgProgressBar: {instanceID: 0}
+  - ConnectText: {instanceID: 0}
+  - BatteryLevel: {instanceID: 0}
+  - CurrentChannel: {instanceID: 0}
+  - GraphContainer: {instanceID: 0}
+  - DotSprite: {instanceID: 0}
+  - GraphZone: {instanceID: 0}
+  - labelforconnection: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

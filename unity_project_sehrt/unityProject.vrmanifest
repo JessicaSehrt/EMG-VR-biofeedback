@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.unity_project.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\VRLab\\Desktop\\EMG Project Sehrt\\EMG_Project-sehrt\\unity_project_sehrt\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "unity_project [Testing]"
+        }
+      }
+    }
+  ]
+}
