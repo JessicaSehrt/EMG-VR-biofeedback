@@ -5,7 +5,7 @@ This research presents results that indicate that input performance can be impro
 Unity Project and Arduino code for EMG multi-modal biofeedback in a Virtual Reality adapted interactive experiment based on a Fitts’ law target selection task. You can switch between modes in the Unity projects' Inspector to compare either different muscle locations or different feedback modalities of one muscle location.
 
 The project is intended to be used with a HTC Vive Pro Eye Head mounted display. It is developed for Unity 2019.4.1f and integrates the signal processing from biosignals from the biosignalplux EMG Sensor with the 4-Channel Hub from biosignalsplux. It also integrates the output to a coin-type vibration motor Iduino TC-
-9520268 to be placed at a fingertip with a rubber cot via the Arduino code provided. 
+9520268 at an Arduino UNO R3 to be placed at a fingertip with a rubber cot via the Arduino code provided. 
 
 To motivate further investigations on the base of this research we provide the dataset including the Unity project, the log files from the studies, and the scripts we used for the evaluation. 
 A detailed description of the study procedure and hardware integration can be found in the related dissertation (*doctoral thesis reference here, coming soon*).
