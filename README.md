@@ -2,8 +2,10 @@
 
 This research presents results that indicate that input performance can be improved by presenting muscle tension as simultaneous tactile and visual feedback.
 
-Unity Project and Arduino code for EMG multi-modal biofeedback in a Virtual Reality adapted interactive experiment based on a Fitts’ law target selection task.
-The project is intended to be used with a HTC Vive Pro Eye Head mounted display. It is developed for Unity 2019.4.1f and integrates the signal processing from biosignals from the biosignalplux EMG Sensor with the 4-Channel Hub from biosignalsplux.
+Unity Project and Arduino code for EMG multi-modal biofeedback in a Virtual Reality adapted interactive experiment based on a Fitts’ law target selection task. You can switch between modes in the Unity projects' Inspector to compare either different muscle locations or different feedback modalities of one muscle location.
+
+The project is intended to be used with a HTC Vive Pro Eye Head mounted display. It is developed for Unity 2019.4.1f and integrates the signal processing from biosignals from the biosignalplux EMG Sensor with the 4-Channel Hub from biosignalsplux. It also integrates the output to a coin-type vibration motor Iduino TC-
+9520268 to be placed at a fingertip with a rubber cot via the Arduino code provided. 
 
 To motivate further investigations on the base of this research we provide the dataset including the Unity project, the log files from the studies, and the scripts we used for the evaluation. 
 A detailed description of the study procedure and hardware integration can be found in the related dissertation (*doctoral thesis reference here, coming soon*).
@@ -22,8 +24,10 @@ Inclusion of scripts:
 We investigated which muscles and sensory modalities can provide optimal real-time interaction with muscle-based input in Virtual Reality. 
 We explored optimal sensor placement and compared the input from five different muscle locations temple, (biceps, triceps, forearm, calf) to the input of the VR controller in a user study (N=18). results showed that EMG input offers flexibility in sensor placement at muscle locations. We probed auditory, tactile, and visual feedback modalities as biofeedback for EMG interaction in a user study (N=40).  
 
+Different muscle locations and controller conditions shown here:
 ![musclesEMG](https://github.com/user-attachments/assets/f7145b49-604a-4fa5-bfb2-121fd240810a)
 
+Different feedback modality conditions shown here:
 ![modalitiesEMG](https://github.com/user-attachments/assets/e6bdddb4-69be-48ef-9bc7-5debe78d7228)
 
 
