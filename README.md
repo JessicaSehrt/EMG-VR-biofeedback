@@ -2,9 +2,7 @@
 
 We investigated which muscles and sensory modalities can provide optimal real-time interaction with muscle-based input in Virtual Reality. 
 
-We explored optimal sensor placement and compared the input from five different muscle locations temple, (biceps, triceps, forearm, calf) to the input of the VR controller in a user study (N=18). results showed that EMG input offers flexibility in sensor placement at muscle locations.
-
-We probed auditory, tactile, and visual feedback modalities as biofeedback for EMG interaction in a user study (N=40).   
+We explored optimal sensor placement and compared the input from five different muscle locations temple, (biceps, triceps, forearm, calf) to the input of the VR controller in a user study (N=18). results showed that EMG input offers flexibility in sensor placement at muscle locations. We probed auditory, tactile, and visual feedback modalities as biofeedback for EMG interaction in a user study (N=40).   
 Objective and subjective results indicate that input performance can be improved by presenting muscle tension as simultaneous tactile and visual feedback.
 
 Unity Project and Arduino code for EMG multi-modal biofeedback in a Virtual Reality adapted interactive experiment based on a Fitts’ law target selection task.
