@@ -20,10 +20,10 @@ Inclusion of scripts:
 - PluxUnityInterface.cs - as Component of "EMG_Panel"
 
 
+![musclesEMG](https://github.com/user-attachments/assets/f7145b49-604a-4fa5-bfb2-121fd240810a)
 
-[Muscles3-Conditions_compressed.pdf](https://github.com/user-attachments/files/18602317/Muscles3-Conditions_compressed.pdf)
+![modalitiesEMG](https://github.com/user-attachments/assets/e6bdddb4-69be-48ef-9bc7-5debe78d7228)
 
-[modalities2_compressed.pdf](https://github.com/user-attachments/files/18602319/modalities2_compressed.pdf)
 
 ```@inproceedings{SehrtCHI2023,
 author = {Sehrt, Jessica and Wißmann, Tim and Breitenbach, Jan and Schwind, Valentin},
