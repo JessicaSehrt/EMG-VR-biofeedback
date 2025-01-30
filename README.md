@@ -16,7 +16,7 @@ You find the evaluation data for the muscle location study here: https://www.dro
 
 Here you can find it for the biofeedback modality study: https://www.dropbox.com/home/Evaluation%20EMG%20Biofeedback%20Modality
 
-A detailed description of the study procedure and hardware integration can be found in the related dissertation (*doctoral thesis reference here*). Please feel free to contact me if you have any questions.
+A detailed description of the study procedure and hardware integration can be found in the related dissertation (*doctoral thesis reference here, coming soon*).
 
 Information on Fitts Law calculation: https://www.yorku.ca/mack/FittsLawSoftware/doc/Throughput.html 
 
