@@ -11,8 +11,11 @@ Unity Project and Arduino code for EMG multi-modal biofeedback in a Virtual Real
 The project is intended to be used with a HTC Vive Pro Eye Head mounted display. It is developed for Unity 2019.4.1f and integrates the signal processing from biosignals from the biosignalplux EMG Sensor with the 4-Channel Hub from biosignalsplux.
 
 To motivate further investigations on the base of this research we provide the dataset including the Unity project, the log files from the studies, and the scripts we used for the evaluation. 
+
 You find the evaluation data for the muscle location study here: https://www.dropbox.com/home/Evaluation%20EMG%20Muscle%20Location
+
 You find the evaluation data for the biofeedback modality study here: https://www.dropbox.com/home/Evaluation%20EMG%20Biofeedback%20Modality
+
 A detailed description of the study procedure and hardware integration can be found in the related dissertation (*doctoral thesis reference here*). Please feel free to contact me if you have any questions.
 
 Information on Fitts Law calculation: https://www.yorku.ca/mack/FittsLawSoftware/doc/Throughput.html 
