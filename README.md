@@ -9,6 +9,7 @@ To motivate further investigations on the base of this research we provide the d
 A detailed description of the study procedure and hardware integration can be found in the related dissertation (*doctoral thesis reference here, coming soon*).
 
 You find the evaluation data for the muscle location study here: https://www.dropbox.com/scl/fo/108de5tgdpl604tn3rsj3/AIGALPYZhLRyHRRws33lGik?rlkey=6qexy7kntprt7fhn9llky6a8i&st=5fdts76i&dl=0
+
 Here you can find it for the biofeedback modality study: https://www.dropbox.com/scl/fo/sjy4sr867vbgdw6t2h3ge/AL0pLef9iakhoAfhTsb0f2k?rlkey=mhuqrdvxpdj7do3r5lndo3jic&st=mjhqvzza&dl=0
 
 Information on Fitts Law calculation: https://www.yorku.ca/mack/FittsLawSoftware/doc/Throughput.html 
