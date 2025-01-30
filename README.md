@@ -8,7 +8,7 @@ The project is intended to be used with a HTC Vive Pro Eye Head mounted display.
 9520268 at an Arduino UNO R3 to be placed at a fingertip with a rubber cot via the Arduino code provided. 
 
 To motivate further investigations on the base of this research we provide the dataset including the Unity project, the log files from the studies, and the scripts we used for the evaluation. 
-A detailed description of the study procedure and hardware integration can be found in the related dissertation (*doctoral thesis reference here, coming soon*).
+A detailed description of the study procedure and hardware integration can be found in the related publication (see below).
 
 You find the evaluation data for the muscle location study here: https://www.dropbox.com/scl/fo/108de5tgdpl604tn3rsj3/AIGALPYZhLRyHRRws33lGik?rlkey=6qexy7kntprt7fhn9llky6a8i&st=5fdts76i&dl=0
 
